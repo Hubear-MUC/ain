@@ -1,5 +1,5 @@
 # ain
-Routine to make it possible to enter a string.
+Routine to make it possible to enter a character.
 
 See "readme.txt" for details.
 
